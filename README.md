@@ -1,2 +1,2 @@
-# Classifying-Customer-Churn-in-the-Telecom-Industry-A-Machine-Learning-Approach
-Optimizing Customer Retention in Telecom Industry using various Classification ML models
+# SyriaTel-Customer-Churn-A-Machine-Learning-Classification-Approach
+A classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company.
