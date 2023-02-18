@@ -1,6 +1,7 @@
 # SyriaTel-Customer-Churn-A-Machine-Learning-Classification-Approach
-A classifier to predict whether a customer will ("soon") stop doing business with SyriaTel, a telecommunications company.
+
 ![Cover image](https://github.com/nkevin90/Classifying-Customer-Churn-in-the-Telecom-Industry-A-Machine-Learning-Approach/blob/main/CoverImage.jpg)
+A classifier to predict whether a customer will soon stop doing business(churn) with SyriaTel, a telecommunications company.
 
 ## 1. Business Understanding
 > **Problem statement:**
